@@ -1,12 +1,11 @@
-package combaranzev;
+package com.baranzev;
 
+import com.baranzev.pages.HomePage;
 import org.openqa.selenium.support.PageFactory;
 
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
-import combaranzev.pages.HomePage;
 
 public class SampleTestNgTest extends TestNgTestBase {
 

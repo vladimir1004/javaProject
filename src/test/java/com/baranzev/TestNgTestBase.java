@@ -1,4 +1,4 @@
-package combaranzev;
+package com.baranzev;
 
 import java.io.IOException;
 
@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeSuite;
 
 import ru.stqa.selenium.factory.WebDriverPool;
 
-import combaranzev.util.PropertyLoader;
+import com.baranzev.util.PropertyLoader;
 
 /**
  * Base class for TestNG-based test classes

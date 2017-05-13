@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="JavaVovan" />
+        <module name="javaProject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="javaProject" target="1.8" />
+      <module name="javaProject_main" target="1.8" />
+      <module name="javaProject_test" target="1.8" />
       <module name="JavaVovan" target="1.8" />
     </bytecodeTargetLevel>
   </component>

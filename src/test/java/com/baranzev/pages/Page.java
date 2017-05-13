@@ -1,4 +1,4 @@
-package combaranzev.pages;
+package com.baranzev.pages;
 
 import org.openqa.selenium.WebDriver;
 
